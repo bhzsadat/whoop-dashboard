@@ -2,6 +2,8 @@
 
 A full-stack performance dashboard that visualizes biometric time-series data using React, D3.js, and Supabase. This project focuses on handling high-frequency telemetry and simulating a live data ingestion pipeline.
 
+🔗 **Live Demo:** [https://whoop-dashboards.vercel.app/](https://whoop-dashboards.vercel.app/]
+
 ## 🚀 Overview
 
 This dashboard transforms raw physiological sensor data into actionable insights. It tracks key WHOOP metrics such as **Recovery Score %**, **Heart Rate Variability (HRV)**, and **Resting Heart Rate (RHR)** over 51 physiological cycles.
