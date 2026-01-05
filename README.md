@@ -42,7 +42,7 @@ The data used in this project is sourced from the **WHOOP Physiological Cycles**
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/whoop-dashboard.git
+    git clone https://github.com/bhzsadat/whoop-dashboard.git
     ```
 2.  **Install dependencies:**
     ```bash
