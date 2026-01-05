@@ -2,7 +2,7 @@
 
 A full-stack performance dashboard that visualizes biometric time-series data using React, D3.js, and Supabase. This project focuses on handling high-frequency telemetry and simulating a live data ingestion pipeline.
 
-🔗 **Live Demo:** [https://whoop-dashboards.vercel.app/](https://whoop-dashboards.vercel.app/]
+🔗 **Live Demo:** [https://whoop-dashboards.vercel.app/](https://whoop-dashboards.vercel.app/)
 
 ## 🚀 Overview
 
